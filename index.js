@@ -7,21 +7,11 @@ const generateMarkdown = require("./utils/generateMarkdown.js");
 
 // TODO: Create an array of questions for user input
 const questions = [
-    {
-        type: "input",
-        name: "name",
-        message: "Welcome to the README generator! Please enter your full name:",
-        validate: function(input) {
-            if (!input) {
-                return "Please enter your full name"
-            }
-            return true;
-        }
-    },
+    
     {
         type: "input",
         name: "github",
-        message: "Enter your GitHub username:",
+        message: "Welcome to the README generator! Enter your GitHub username:",
         validate: function(input) {
             if (!input) {
                 return "Please enter a valid GitHub username"
@@ -110,8 +100,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "contributions",
-        message: "Enter anything the user needs to know about contributing to the project;",
+        name: "contributing",
+        message: "Enter anything the user needs to know about contributing to the project:",
         validate: function(input) {
             if (!input) {
                 return "Please enter information about contributing to your project or write N/A"
