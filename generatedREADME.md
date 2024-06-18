@@ -1,8 +1,9 @@
 
-# POOP
+# q
+
 
 ## Description
-ITS POOPY
+q
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,27 +16,27 @@ ITS POOPY
 
 ## Installation
 Installation instructions for application:
-Install it bitch
+q
 
 ## Usage
-Do the work right
+q
 
 ## License 
-MIT
+None
 
 ## Contributing 
-no
+q
 
 ## Credits
-no
+q
 
 ## Tests
 To run tests for the application:
-Install it 
+q
 
 ## Questions 
 Contact me with any questions regarding this project:
 
-GitHub: [ELena](https://github.com/ELena)
+GitHub: [q](https://github.com/q)
 
-Email: epapanikolas
+Email: q
