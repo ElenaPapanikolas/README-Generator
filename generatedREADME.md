@@ -1,9 +1,9 @@
 
-# a
-
+# qqqqq
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-a
+qqqqq
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,27 +16,27 @@ a
 
 ## Installation
 Installation instructions for application:
-a
+qqqq
 
 ## Usage
-a
+qqqq
 
 ## License 
-
+This project is operating under the MIT license. For more detailed information about the license, please click [here](https://opensource.org/licenses/MIT).
 
 ## Contributing 
-a
+qqqq
 
 ## Credits
-a
+qqqq
 
 ## Tests
 To run tests for the application:
-a
+qqqq
 
 ## Questions 
 Contact me with any questions regarding this project:
 
-GitHub: [a](https://github.com/a)
+GitHub: [qqq](https://github.com/qqq)
 
-Email: a
+Email: qqqqq

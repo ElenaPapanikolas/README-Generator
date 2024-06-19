@@ -13,10 +13,7 @@ const questions = [
         name: "github",
         message: "Welcome to the README generator! Enter your GitHub username:",
         validate: function(input) {
-            if (!input) {
-                return "Please enter a valid GitHub username"
-            }
-            return true;
+            return input ? true : "Please enter a valid GitHub username";
         }
     },
     {
@@ -24,10 +21,7 @@ const questions = [
         name: "email",
         message: "Enter your email:",
         validate: function(input) {
-            if (!input) {
-                return "Please enter a valid email"
-            }
-            return true;
+            return input ? true : "Please enter a valid email";
         }
     },
     {
@@ -35,10 +29,7 @@ const questions = [
         name: "title",
         message: "Enter the title of your project:",
         validate: function(input) {
-            if (!input) {
-                return "Please enter the title of your project"
-            }
-            return true;
+            return input ? true : "Please enter the title of your project";
         }
     },
     {
@@ -46,10 +37,7 @@ const questions = [
         name: "description",
         message: "Enter a short description of your project:",
         validate: function(input) {
-            if (!input) {
-                return "Please enter a description of your project"
-            }
-            return true;
+            return input ? true : "Please enter a description of your project";
         }
     },
     {
@@ -58,10 +46,7 @@ const questions = [
         message: "Select a license for your project:",
         choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3-Clause", "None"],
         validate: function(input) {
-            if (!input) {
-                return "Please select a valid license option"
-            }
-            return true;
+            return input ? true : "Please select a valid license option";
         }
         
     },
@@ -70,10 +55,7 @@ const questions = [
         name: "installation",
         message: "Enter instructions to install dependencies:",
         validate: function(input) {
-            if (!input) {
-                return "Please enter instructions to install or write N/A"
-            }
-            return true;
+            return input ? true : "Please enter instructions to install dependencies";
         }
     },
     {
@@ -81,10 +63,7 @@ const questions = [
         name: "usage",
         message: "Enter what the user needs to know about using this project:",
         validate: function(input) {
-            if (!input) {
-                return "Please enter usage information about your project"
-            }
-            return true;
+            return input ? true : "Please enter usage information about your project";
         }
     },
     {
@@ -92,10 +71,7 @@ const questions = [
         name: "tests",
         message: "Enter instructions needed to run tests:",
         validate: function(input) {
-            if (!input) {
-                return "Please enter the instructions to run tests or write N/A"
-            }
-            return true;
+            return input ? true : "Please enter the instructions to run tests or write N/A";
         }
     },
     {
@@ -103,10 +79,7 @@ const questions = [
         name: "contributing",
         message: "Enter anything the user needs to know about contributing to the project:",
         validate: function(input) {
-            if (!input) {
-                return "Please enter information about contributing to your project or write N/A"
-            }
-            return true;
+            return input ? true : "Please enter information about contributing to your project or write N/A";
         }
     },
     {
@@ -114,10 +87,7 @@ const questions = [
         name: "credits",
         message: "Enter any credits and acknowledgements for your project here:",
         validate: function(input) {
-            if (!input) {
-                return "Please enter any credits/acknowledgements or write N/A"
-            }
-            return true;
+            return input ? true : "Please enter any credits/acknowledgements or write N/A";
         }
     }
 ];
