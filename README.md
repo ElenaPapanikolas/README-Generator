@@ -21,11 +21,11 @@ Installation instructions for application:
 Start by cloning or forking the repository to your local machine. Then navigate to the project directory and ensure Node.js, and all necessary dependencies are installed buy running  `npm i`.
 
 ## Usage
-To use this application, make sure to follow the installation instructions and navigate to your terminal, then run the command `node index.js`. This will launch the README Generator and you will then be prompted by a series of questions. Simply fill in the information and once finished, a README will be generated and written for you in the generatedREADME.md file in the current directory. 
+To use this application, make sure to follow the installation instructions and navigate to your terminal, then run the command `node index.js`. This will launch the README Generator and you will then be prompted by a series of questions. Simply fill in the information and once finished, a README will be generated and written for you in the generatedREADME.md file in the current directory.
 
 [Click here for recording of application demo]()
 
-![Screenshot of generated README](./utils/images/screenshot.png)
+![Screenshot of generated README](./assets/images/screenshot.png)
 
 ## License 
 This project is operating under the MIT license. For more detailed information about the license, please click [here](https://opensource.org/licenses/MIT).
