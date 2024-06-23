@@ -25,7 +25,7 @@ To use this application, make sure to follow the installation instructions and n
 
 [Click here for recording of application demo]()
 
-![Screenshot of generated README](./assets/images/screenshot2.png)
+![Screenshot of generated README](/assets/Images/screenshot2.png)
 
 ## License 
 This project is operating under the MIT license. For more detailed information about the license, please click [here](https://opensource.org/licenses/MIT).
