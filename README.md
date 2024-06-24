@@ -23,7 +23,7 @@ Start by cloning or forking the repository to your local machine. Then navigate 
 ## Usage
 To use this application, make sure to follow the installation instructions and navigate to your terminal, then run the command `node index.js`. This will launch the README Generator and you will then be prompted by a series of questions. Simply fill in the information and once finished, a README will be generated and written for you in the generatedREADME.md file in the current directory.
 
-[Click here for recording of application demo]()
+[Click here for recording of application demo](https://drive.google.com/file/d/1kUDQELRHZUgQ4KMGC3K0qn4dGrdMX41D/view)
 
 ![Screenshot of generated README](/assets/Images/screenshot2.png)
 

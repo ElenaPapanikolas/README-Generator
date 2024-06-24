@@ -1,9 +1,9 @@
 
-# Lorem ipsum dolor sit amet, consectetur.
+# Example for video demonstration.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Lorem ipsum dolor sit amet, consectetur.
+Example for video demonstration.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,27 +16,27 @@ Lorem ipsum dolor sit amet, consectetur.
 
 ## Installation
 Installation instructions for application:
-Lorem ipsum dolor sit amet, consectetur.
+Example for video demonstration.
 
 ## Usage
-Lorem ipsum dolor sit amet, consectetur.
+Example for video demonstration.
 
 ## License 
 This project is operating under the MIT license. For more detailed information about the license, please click [here](https://opensource.org/licenses/MIT).
 
 ## Contributing 
-Lorem ipsum dolor sit amet, consectetur.
+Example for video demonstration.
 
 ## Credits
-Lorem ipsum dolor sit amet, consectetur.
+Example for video demonstration.
 
 ## Tests
 To run tests for the application:
-Lorem ipsum dolor sit amet, consectetur.
+Example for video demonstration.
 
 ## Questions 
 Contact me with any questions regarding this project:
 
-GitHub: [Lorem ipsum dolor sit amet, consectetur.](https://github.com/Lorem ipsum dolor sit amet, consectetur.)
+GitHub: [ElenaPapanikolas](https://github.com/ElenaPapanikolas)
 
-Email: Lorem ipsum dolor sit amet, consectetur.
+Email: Example for video demonstration.
